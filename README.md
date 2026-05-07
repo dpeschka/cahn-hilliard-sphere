@@ -1,5 +1,10 @@
 # Cahn-Hilliard on a Sphere
 
+## Jump to files in Colab
+View documented notebook [Example_Intro.ipynb](colab/Example_Intro.ipynb) or open in Google Colab. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schmellerl/gradient_flows_order_parameters_mechanics/blob/main/colab/Example_Intro.ipynb)
+
+## Introduction
+
 This repository contains small FEniCS experiments for solving the Cahn-Hilliard equation on the surface of a sphere. The main workflow loads a volumetric sphere mesh from `data/sphere.xml`, extracts its boundary as a surface mesh, and evolves a phase field on that curved geometry.
 
 The core implementation in `surface_ch.ipynb` uses a mixed `P1-P1` finite-element formulation for the order parameter and chemical potential, solves the nonlinear system with FEniCS' `NonlinearVariationalSolver`, and adapts the timestep based on Newton convergence. Solutions are written to `.pvd` files for visualisation.
