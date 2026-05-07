@@ -1,7 +1,7 @@
 # Cahn-Hilliard on a Sphere
 
 ## Jump to files in Colab
-View documented notebook [Example_Intro.ipynb](colab/Example_Intro.ipynb) or open in Google Colab. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schmellerl/gradient_flows_order_parameters_mechanics/blob/main/colab/Example_Intro.ipynb)
+View documented notebook [Example_surface_ch.ipynb](surface_ch.ipynb) or open in Google Colab. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dpeschka/cahn-hilliard-sphere/blob/main/surface_ch.ipynb)
 
 ## Introduction
 
