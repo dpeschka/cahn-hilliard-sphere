@@ -1,7 +1,12 @@
 # Cahn-Hilliard on a Sphere
 
 ## Jump to files in Colab
+
+### Cahn--Hilliard on a sphere:
 View documented notebook [Example_surface_ch.ipynb](surface_ch.ipynb) or open in Google Colab. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dpeschka/cahn-hilliard-sphere/blob/main/surface_ch.ipynb)
+
+### Cahn--Hilliard + Canham--Helfrich on a sphere:
+View documented notebook [Example_surface_ch.ipynb](surface_cells.ipynb) or open in Google Colab. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dpeschka/cahn-hilliard-sphere/blob/main/surface_cells.ipynb)
 
 ## Introduction
 
